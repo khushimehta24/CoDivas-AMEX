@@ -92,7 +92,7 @@ The deployed links for our application are:-
 #### Credentials to use the above applications
 
 1. Beneficiary (Khushi Mehta)
-    * User: 8850168258
+    * User: 8850144258
     * Pw: test1234
 
 2. Bank (HDFC Bank)
